@@ -1,0 +1,18 @@
+This is a collection of YouTube videos as made as an outreach project in December 2012.  Each day of Advent gives a different interesting fact about particle physics.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/advent2012/">Live page</a>
+<a href="http://www.youtube.com/aidanatcern">YouTube acount</a>
+<a href="https://github.com/aidansean/advent2012">GitHub repository</a>
+
+<h3>Overview</h3>
+
+This is mostly an exercise in using the YouTube Javascript API.  It was this project that made me realise that the old Javascript API is now deprecated, which means I will have to update the <a href="">Marble Hornets</a> project at some point.
+
+<h3>Challenges</h3>
+<dl>
+<dt><em>Challenge</em>: The YouTube Javascript API changed.</dt>
+
+<dd><em>Solution</em>: Having already become accustomed to the old YouTube API, it was somewhat frustrating to get used to a new one, but such is life and working with bleeding edge technologies! (Resolved.)</dd>
+</dl>

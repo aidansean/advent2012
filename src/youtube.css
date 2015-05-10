@@ -1,0 +1,15 @@
+div.youtube_thumbnail{
+  border : 1px solid black ;
+  background : white ;
+  text-align : center ;
+}
+table.youtube_player{
+  width : 100% ;
+  margin : auto ;
+}
+object.youtube_player{
+  width : 750px ;
+  margin : auto ;
+  border : 1px solid black ;
+  padding : 10px ;
+}
